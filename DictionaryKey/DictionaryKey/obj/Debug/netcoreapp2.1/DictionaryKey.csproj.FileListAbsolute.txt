@@ -1,0 +1,11 @@
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\bin\Debug\netcoreapp2.1\DictionaryKey.deps.json
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\bin\Debug\netcoreapp2.1\DictionaryKey.runtimeconfig.json
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\bin\Debug\netcoreapp2.1\DictionaryKey.runtimeconfig.dev.json
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\bin\Debug\netcoreapp2.1\DictionaryKey.dll
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\bin\Debug\netcoreapp2.1\DictionaryKey.pdb
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\obj\Debug\netcoreapp2.1\DictionaryKey.csprojAssemblyReference.cache
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\obj\Debug\netcoreapp2.1\DictionaryKey.csproj.CoreCompileInputs.cache
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\obj\Debug\netcoreapp2.1\DictionaryKey.AssemblyInfoInputs.cache
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\obj\Debug\netcoreapp2.1\DictionaryKey.AssemblyInfo.cs
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\obj\Debug\netcoreapp2.1\DictionaryKey.dll
+C:\Users\Shermaine\source\repos\DictionaryKey\DictionaryKey\obj\Debug\netcoreapp2.1\DictionaryKey.pdb
